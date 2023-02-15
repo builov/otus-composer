@@ -1,0 +1,18 @@
+{
+    "name": "builov/otus-composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Builov\\OtusComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "builov",
+            "email": "builov@inbox.ru"
+        }
+    ],
+    "require": {
+        "danielstjules/stringy": "^3.1"
+    }
+}
